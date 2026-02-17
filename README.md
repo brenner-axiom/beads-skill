@@ -65,7 +65,7 @@ All agents pull from and push to the same hub repo. Tasks are claimed atomically
 
 ## License
 
-MIT
+GPLv3
 
 ## Credits
 
